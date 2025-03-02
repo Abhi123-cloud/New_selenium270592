@@ -52,6 +52,7 @@ public class Tc01_accountRegrestratintest extends BasaClass
 			//logger.error("Test failed");
 			logger.debug("Debug log");
 			//Assert.fail();
+			//Adding new codes
 	
 		
 	}
