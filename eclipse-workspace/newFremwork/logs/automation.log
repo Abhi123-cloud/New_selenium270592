@@ -1,0 +1,130 @@
+09:44:27.067 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+09:44:27.217 [main] INFO  testCases.Tc01_accountRegrestratintest - Click on myaccount link
+09:44:27.602 [main] INFO  testCases.Tc01_accountRegrestratintest - Click on registe  link
+09:44:27.603 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+09:44:38.906 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+09:44:38.906 [main] DEBUG testCases.Tc01_accountRegrestratintest - Debug log
+09:45:24.114 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+09:45:24.193 [main] INFO  testCases.Tc01_accountRegrestratintest - Click on myaccount link
+09:45:24.633 [main] INFO  testCases.Tc01_accountRegrestratintest - Click on registe  link
+09:45:24.634 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+09:45:44.884 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+09:45:44.884 [main] DEBUG testCases.Tc01_accountRegrestratintest - Debug log
+09:46:11.621 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+09:46:11.772 [main] INFO  testCases.Tc01_accountRegrestratintest - Click on myaccount link
+09:46:12.163 [main] INFO  testCases.Tc01_accountRegrestratintest - Click on registe  link
+09:46:12.164 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+19:55:22.986 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+19:55:33.093 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+19:55:51.103 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+19:56:04.372 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+19:56:58.088 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:30:52.710 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:44:11.861 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:44:11.886 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:44:12.499 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+20:44:12.499 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+20:49:15.648 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:49:15.674 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:49:16.325 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+20:49:16.326 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+20:49:16.338 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:49:16.340 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:49:16.986 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:49:16.988 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:49:56.989 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:49:57.020 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:49:57.722 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+20:49:57.723 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+20:49:57.734 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:49:57.736 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:49:58.421 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+20:49:58.422 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+20:49:58.426 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:49:58.428 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:49:59.023 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+20:49:59.023 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+20:51:41.364 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:51:41.389 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:51:41.520 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+20:51:41.618 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+20:51:41.694 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+20:51:41.758 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+20:51:41.829 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passIndia@2030
+20:51:41.903 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassIndia@2030
+20:51:42.007 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+20:51:42.007 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+20:51:42.013 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:51:42.013 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:51:42.115 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+20:51:42.204 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+20:51:42.277 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+20:51:42.348 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+20:51:42.447 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passPassword123
+20:51:42.525 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassPassword123
+20:51:42.630 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+20:51:42.631 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+20:51:42.636 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+20:51:42.638 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+20:51:42.770 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+20:51:42.868 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+20:51:42.966 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+20:51:43.042 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+20:51:43.123 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passSecurePass2025
+20:51:43.217 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassSecurePass2025
+20:51:43.298 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+20:51:43.298 [main] ERROR testCases.Tc01_accountRegrestratintest - Test failed
+10:57:02.743 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+10:57:02.776 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+10:57:02.932 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+10:57:03.035 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+10:57:03.133 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+10:57:03.222 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+10:57:03.321 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passIndia@2030
+10:57:03.426 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassIndia@2030
+10:57:03.543 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+10:57:03.547 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+10:57:03.548 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+10:57:03.611 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+10:57:03.668 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+10:57:03.727 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+10:57:03.779 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+10:57:03.848 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passPassword123
+10:57:03.909 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassPassword123
+10:57:03.982 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+10:57:03.986 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+10:57:03.987 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+10:57:04.049 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+10:57:04.114 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+10:57:04.184 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+10:57:04.269 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+10:57:04.365 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passSecurePass2025
+10:57:04.439 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassSecurePass2025
+10:57:04.512 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+10:57:32.331 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+10:57:32.360 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+10:57:32.481 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+10:57:32.561 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+10:57:32.620 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+10:57:32.680 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+10:57:32.755 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passIndia@2030
+10:57:32.819 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassIndia@2030
+10:57:32.916 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+10:57:32.920 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+10:57:32.922 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+10:57:32.978 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+10:57:33.067 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+10:57:33.122 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+10:57:33.176 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+10:57:33.247 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passPassword123
+10:57:33.309 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassPassword123
+10:57:33.420 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
+10:57:33.423 [main] INFO  testCases.Tc01_accountRegrestratintest - ***********---Starting test case----*********
+10:57:33.425 [main] INFO  testCases.Tc01_accountRegrestratintest - Providing client detils
+10:57:33.482 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user name
+10:57:33.543 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user lastname
+10:57:33.600 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user place
+10:57:33.655 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user nation
+10:57:33.723 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user passSecurePass2025
+10:57:33.789 [main] INFO  testCases.Tc01_accountRegrestratintest - Enter user conpassSecurePass2025
+10:57:33.856 [main] INFO  testCases.Tc01_accountRegrestratintest - validating  client validation
