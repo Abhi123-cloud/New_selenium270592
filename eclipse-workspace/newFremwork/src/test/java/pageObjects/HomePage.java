@@ -13,13 +13,13 @@ public class HomePage extends Basapage
 	}
 	
 	
-	@FindBy(xpath="//span[text()='My Account']") WebElement my_account;
-	@FindBy(xpath="(//a[text()='Register'])[1]") WebElement register_link;
+//	@FindBy(xpath="//span[text()='My Account']") WebElement my_account;
+	@FindBy(xpath="//*[@id=\"loginPanel\"]/p[2]/a") WebElement register_link;
 	
-	public void clickMyaccount()
-	{
-		my_account.click();
-	}
+//	public void clickMyaccount()
+//	{
+//		my_account.click();
+//	}
 	
 	public void clickRegister()
 	{
